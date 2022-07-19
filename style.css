@@ -1,0 +1,20 @@
+/* ############### Global Styles Section ############### */
+
+html,
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #000;
+  color: #fff;
+  font-size: 16px;
+  margin: 0;
+  max-width: 2000px;
+  margin: auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
